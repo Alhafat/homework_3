@@ -10,6 +10,9 @@
 
 Console.Clear();
 
+
+////Вариант 1
+
 // while (true)
 // {
 //     Console.Write("Введите любое число: ");
@@ -43,7 +46,7 @@ Console.Clear();
 //     }
 // }
 
-
+// Вариант 2
         
 Console.Write("Введите любое число: ");
 int number=int.Parse(Console.ReadLine()!);
